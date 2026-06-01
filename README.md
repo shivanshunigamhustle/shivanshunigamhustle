@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivanshu Nigam</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **e-commerce**
+- 🔭 I’m currently working on **ADRS private limited**
 
 - 👯 I’m looking to collaborate on **customise scaledraw**
 
